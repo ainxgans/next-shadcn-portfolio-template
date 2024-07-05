@@ -18,9 +18,7 @@ export default function Header() {
     <header className="flex items-center py-4 px-4 md:container w-full">
       <div className="w-full justify-start items-center">
         <Link href="/" className="flex items-center">
-          <h3 className="text-lg font-semibold tracking-tight">
-            Joeri Breedveld
-          </h3>
+          <h3 className="text-lg font-semibold tracking-tight">Maulana</h3>
         </Link>
       </div>
       <NavigationMenu className="w-full items-center justify-center hidden md:flex">

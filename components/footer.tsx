@@ -11,45 +11,37 @@ export default function Footer() {
       <ul className="flex flex-wrap gap-4 justify-center">
         <li>
           <Link
-            href="https://www.instagram.com/joeri.bv/"
+            href="https://www.instagram.com/yth_maulana/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <Button variant="outline">
               <Instagram className="h-4 w-4 mr-2" />
-              @joeri.bv
+              @yth_maulana
             </Button>
           </Link>
         </li>
         <li>
           <Link
-            href="https://github.com/joeribreedveld"
+            href="https://github.com/ainxgans"
             target="_blank"
             rel="noopener noreferrer"
           >
             <Button variant="outline">
               <Github className="h-4 w-4 mr-2" />
-              @joeribreedveld
+              @ainxgans
             </Button>
           </Link>
         </li>
         <li>
           <Link
-            href="https://www.linkedin.com/in/joeribreedveld/"
+            href="https://www.linkedin.com/in/maulanamaulana/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <Button variant="outline">
               <Linkedin className="h-4 w-4 mr-2" />
-              @joeribreedveld
-            </Button>
-          </Link>
-        </li>
-        <li>
-          <Link href="mailto:joeri.breedveld123@gmail.com">
-            <Button variant="outline">
-              <Mail className="h-4 w-4 mr-2" />
-              joeri.breedveld123@gmail.com
+              @maulanamaulana
             </Button>
           </Link>
         </li>
