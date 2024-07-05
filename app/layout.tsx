@@ -12,8 +12,8 @@ type TLayout = Readonly<{
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Joeri Breedveld",
-  description: "Software engineer driven by learning and challenges.",
+  title: "Maulana",
+  description: "Web Developer 🔰.",
 };
 
 export default function Layout({ children }: TLayout) {

@@ -18,7 +18,7 @@ export default function Hero() {
           <Link href="/about">Learn more</Link>
         </Button>
         <Link
-          href="https://github.com/joeribreedveld"
+          href="https://github.com/ainxgans"
           target="_blank"
           rel="noopener noreferrer"
         >
